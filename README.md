@@ -1,5 +1,7 @@
 I’m interested in using Machine Learning 🤖 to learn the rules of Quantum Mechanics ⚡️ and applying this in simulating Amorphous Inorganic Systems 🧪
 
+Find me [here](https://scholar.google.com/citations?user=797Gg3sAAAAJ&hl=en) on Google Scholar!
+
 I wrote and maintain the following repositories:
 - [💿 locache](https://github.com/jla-gardner/local-cache) - a python package for persisting function calls to disk
 - [💻 digital-experiments](https://github.com/jla-gardner/digital_experiments) - a python package for keeping track of and optmizing configuration for digital scientific experiments
