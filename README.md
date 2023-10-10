@@ -4,7 +4,7 @@ Find me [here](https://scholar.google.com/citations?user=797Gg3sAAAAJ&hl=en) on 
 
 I wrote and maintain the following repositories:
 - [💿 locache](https://github.com/jla-gardner/local-cache) - a python package for persisting function calls to disk
-- [💻 digital-experiments](https://github.com/jla-gardner/digital_experiments) - a python package for keeping track of and optmizing configuration for digital scientific experiments
+- [⚛️ load-atoms](https://jla-gardner.github.io/load-atoms/) - a python package for downloading and manipulating Large Open Access Datasets for Atomistic Materials Science
 
 
 <!---
