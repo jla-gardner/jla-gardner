@@ -5,11 +5,14 @@ and simulate amorphous chemical systems 🧪
 
 I wrote and maintain the following repositories:
 
-> **[💿 locache](https://github.com/jla-gardner/local-cache)**\
-> a python package for persisting function calls to disk
+> **[🕸️ graph-pes](https://github.com/jla-gardner/graph-pes)**\
+> train and use graph-based ML models of potential energy surfaces
 
 > **[⚛️ load-atoms](https://jla-gardner.github.io/load-atoms/)**\
 > a python package for downloading and manipulating **L**arge **O**pen **A**ccess **D**atasets for **Ato**mistic **M**aterials **S**cience
+
+> **[💿 locache](https://github.com/jla-gardner/local-cache)**\
+> a python package for persisting function calls to disk
 
 > **[🔬 digital-experiments](https://jla-gardner.github.io/digital-experiments/)**\
 > a lightweight tool for recording and automating coding experiments and their configuration
